@@ -1,0 +1,45 @@
+/* Mobile readability refinements: preserve Bora's editorial hierarchy. */
+.navigation-item { font-size: 11px; line-height: 1.2; }
+
+.style-card { flex-basis: 154px; }
+.style-image-button { height: 185px; }
+.style-text-button { gap: 4px; }
+.style-text-button strong { font-size: 14px; line-height: 1.25; }
+.style-text-button span { font-size: 12px; line-height: 1.35; }
+.demo-note, .community-demo-note, .mybora-demo-note, .shop-demo-label { font-size: 11px; line-height: 1.45; }
+.community-caption, .story-card small, .announcement-list small { font-size: 12px; line-height: 1.45; }
+.story-card strong, .announcement-list strong { font-size: 14px; line-height: 1.25; }
+
+.post-card header strong { font-size: 13px; }
+.post-card header small { font-size: 10px; line-height: 1.3; }
+.post-caption { font-size: 14px; line-height: 1.55; }
+.community-search input { font-size: 14px; }
+.community-actions .primary-button, .admin-toggle, .community-categories button { font-size: 11px; }
+
+.booking-header > p:not(.section-eyebrow), .booking-step-title p { font-size: 13px; line-height: 1.45; }
+.booking-service-card > div > span, .booking-summary, .availability-label, .review-person span, .review-person p, .demo-disclaimer { font-size: 12px; line-height: 1.45; }
+.booking-service-card small, .booking-service-card button { font-size: 11px; }
+.booking-field { font-size: 14px; }
+.booking-field > span, .booking-field em { font-size: 11px; }
+.booking-field input, .booking-field textarea { font-size: 14px; line-height: 1.45; }
+.time-grid button { font-size: 12px; }
+
+.shop-header > div > p:last-child { font-size: 13px; }
+.shop-demo-label { margin-top: 11px; }
+.shop-categories button { font-size: 11px; }
+.product-card > p { font-size: 10px; }
+.product-card > span { min-height: 51px; font-size: 12px; line-height: 1.42; }
+.product-card footer button { font-size: 11px; }
+.product-card footer strong small { font-size: 10px; }
+
+.membership-card > div > span, .membership-card ul, .loyalty-progress p { font-size: 12px; line-height: 1.45; }
+.loyalty-perks span { font-size: 10px; line-height: 1.35; }
+.mybora-section-heading a, .mybora-section-heading > span { font-size: 11px; }
+.appointments p { font-size: 10px; }
+.appointments strong { font-size: 14px; }
+.appointments small { font-size: 12px; line-height: 1.35; }
+.saved-style-rail article { width: 132px; min-width: 132px; }
+.saved-style-rail strong { min-height: 34px; font-size: 12px; line-height: 1.2; }
+.saved-style-rail a { font-size: 10px; }
+.saved-community p, .exclusive-card > p:not(.section-eyebrow) { font-size: 12px; line-height: 1.5; }
+.exclusive-card button { font-size: 11px; }

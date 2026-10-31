@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import { AppShell } from "@/components/layout/AppShell";
 import "./globals.css";
+import "./readability.css";
 
 export const metadata: Metadata = {
   title: "Bora Beauty Club — Demonstration",
