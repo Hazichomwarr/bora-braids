@@ -1,0 +1,2 @@
+export const sampleAppointments = [{ status: "Upcoming sample", service: "Bora Bora Bohemian Braids", date: "Friday · 1:30 PM", detail: "Illustrative appointment preview" }, { status: "Past sample", service: "Knotless Braids", date: "June 14 · 11:00 AM", detail: "Illustrative past visit" }, { status: "Past sample", service: "Fulani Braids", date: "May 02 · 2:00 PM", detail: "Illustrative past visit" }];
+export const memberBenefits = ["Early access to beauty inspiration", "Members-only care rituals", "Illustrative loyalty opportunities"];
